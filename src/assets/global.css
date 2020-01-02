@@ -1,0 +1,18 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+    min-width: 1366px;
+}
+
+.el-card {
+    margin: 20px 0;
+}
+
+.ql-editor {
+    min-height: 400px !important;
+    margin-bottom: 20px;
+}
